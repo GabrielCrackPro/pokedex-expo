@@ -1,6 +1,6 @@
-# Pokedex Expo App
+# Pokedex Expo App
 
-## Features
+## Features
 
 - See and filter pokemons list
 - See pokeomn details (stats, evolutions, locations...)
@@ -8,3 +8,4 @@
 - Light / dark theme
 - Customizable homescreen
 - Dynamic settings
+- More to come
